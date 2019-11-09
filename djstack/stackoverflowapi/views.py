@@ -9,14 +9,22 @@ import pandas as pd
 
 # Create your views here.
 def index(request):
-    print('Recieved URL:',request.GET['url'])
-
+    '''
+    Receives GET request with URL as query param
+    :param request:
+    :return: extracted JSON response
+    '''
+    print('Received URL:', request.GET['url'])
     user = user_rank(request.GET['url'])
-    print('Sending...', user)
     return JsonResponse(user)
 
 
 def user_rank(user_url):
+    '''
+    Calculate user rank
+    :param user_url: Stackoverflow url
+    :return: Rank
+    '''
     try:
         url = user_url
         user_option_file = 'stackoverflowapi\\options\\user-options.json'
