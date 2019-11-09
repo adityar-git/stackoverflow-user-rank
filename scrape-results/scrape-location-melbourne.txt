@@ -1,0 +1,1687 @@
+1142000,Reading, United Kingdom
+490000,London, United Kingdom
+364000,USA
+307000,Charlotte, NC
+270000,Silicon Valley, CA, United States
+235000,Boulder, CO
+212000,Berkshire, United Kingdom
+195000,Vaud, Switzerland
+179000,Victoria, BC, Canada
+166000,NYC
+156000,Charlotte, NC
+147000,Pune--Vadodara--Ahemdabad--Mumbai, India
+140000,Germany
+135000,Colorado, United States
+127000,Denver, CO, United States
+123000,Israel
+118000,Huntsville, AL, United States
+113000,United Kingdom
+110000,Austin, TX, USA
+107000,Your favorite IDE
+103000,Oshkosh, WI
+99800.0,United States
+97800.0,Israel
+94800.0,Moscow, Russia
+92400.0,California
+89100.0,United States
+87100.0,South Africa
+84600.0,Houston, TX
+82500.0,Online
+80800.0,Moscow, Russia
+79000,Saint Petersburg, Russia
+77400.0,Los Angeles, CA
+75900.0,Kuala Lumpur Malaysia
+74200.0,New York, NY, USA
+72500.0,Batavia, IL, United States
+71300.0,Kelowna, Canada
+69500.0,Vienna, Austria
+68100.0,Kirkland, WA
+67100.0,Finland
+65800.0,San Francisco, CA, USA
+64599.99999999999,Kerala, India
+63500.0,Patras, Greece
+62500.0,India
+61800.0,Maryland, USA
+61000,Orlando, Florida
+60100.0,Overland Park, KS
+59200.0,Seattle, WA USA
+58400.0,United States
+57600.0,Virginia
+56500.0,Buenos Aires, Argentina
+56000,Atlanta, GA, United States
+55300.0,Hamburg, Germany
+54400.0,Cluj-Napoca, Romania
+53600.0,Riga, Latvia
+51400.0,Ukraine
+50900.0,Montevideo, Uruguay
+50300.0,Belgium
+2,459,Ireland
+2,456,Neubeckum, Deutschland
+2,451,Ottawa, Canada
+2,449,Texas
+2,447,San Francisco, CA, United States
+2,445,Geneva, Switzerland
+2,444,Cologne, Germany
+2,441,San Leandro, CA, USA
+2,440,Roswell, GA, United States
+2,437,Berlin, Deutschland
+2,436,Vancouver, BC
+2,435,London, United Kingdom
+2,434,Kiev, Ukraine
+2,432,London
+2,431,Toronto, Ontario
+2,430,San Francisco Bay Area, CA, USA
+2,429,St. Petersburg, Russia
+2,427,Cantley, Canada
+2,426,Phoenix, AZ, United States
+2,425,Sweden
+2,424,Chennai, Tamil Nadu, India
+2,423,Shanghai, China
+2,422,Berlin, Germany
+2,420,Brisbane, Australia
+2,417,Germany
+2,416,Dallas, TX, USA
+2,415,Rovereto, Italy
+2,411,Bandung, Indonesia
+2,409,Sweden
+2,392,Boston, MA, United States
+2,391,India
+2,390,San Francisco, CA, United States
+2,389,Salt Lake City, UT, United States
+2,388,Sønderborg, Denmark
+2,386,Germany
+2,385,Barcelona, Catalunya, Spain
+2,384,Noida, India
+2,383,Wroclaw, Poland
+2,382,Berlin, Germany
+2,381,Seattle, WA
+2,380,Portland, OR
+2,378,Philadelphia, PA, USA
+2,377,Indore, Madhya Pradesh, India
+2,376,Kiev, Kyiv city, Ukraine
+2,375,Kraków, Poland
+2,374,London
+2,373,London, United Kingdom
+2,371,Bristol, United Kingdom
+2,370,New York, NY
+2,369,Berlin, Germany
+2,368,New York, NY, United States
+2,367,Sweden
+2,365,Breukelen, Netherlands
+2,364,Ahmadabad, India
+2,363,Kathmandu, Nepal
+2,362,Tysons, VA, United States
+2,361,Italy
+2,360,Netherlands
+2,358,Stockholm, Sweden
+2,357,Berkeley, CA, United States
+2,356,Pune, India
+2,355,Andover, United Kingdom
+2,354,Londonderry, NH
+2,352,Armenia
+2,351,San Jose, CA, United States
+2,349,Chennai, India
+2,348,San Francisco Bay Area
+2,347,Lexington, KY
+2,346,Slovenia
+2,344,Earth
+2,343,Melbourne, Victoria, Australia
+2,342,Bali, Indonesia
+2,341,Switzerland
+2,340,Wellington, New Zealand
+2,339,Auckland, NZ
+2,338,Germany
+2,337,Seattle, WA, USA
+2,336,South Africa
+2,335,United Kingdom
+2,334,Perth, Australia
+2,332,Medellin, Colombia
+2,331,London, United Kingdom
+2,330,Springfield, VA
+2,329,Minneapolis, MN
+2,327,Baton Rouge, LA
+2,326,E A R T H
+2,324,Noida, India
+1,123,Silicon Valley
+1,121,Chennai, Tamil Nadu, India
+1,121,Madison, WI
+1,120,Bangalore, India
+1,119,Colorado, USA
+1,119,USA
+1,119,Belgium
+1,119,Belgium
+1,118,Cambridge, UK
+1,118,Palo Alto, CA
+1,118,Wake Forest, NC, United States
+1,117,Howell, MI, United States
+1,117,Ludhiana, India
+1,117,Cleveland, OH
+1,116,Berkeley, CA
+1,116,Sweden
+1,116,Lansdale, PA, United States
+1,115,Germany
+1,115,Seattle, WA, United States
+1,115,London, United Kingdom
+1,114,Vaikom, Kerala, India
+1,114,Singapore
+1,114,New York, United States
+1,114,North Carolina
+1,112,Bangkok, Thailand
+1,110,Netherlands
+1,110,United States
+1,109,Croatia
+1,106,Cambridge, United Kingdom
+1,105,Richmond, VA
+1,105,Kiev, Ukraine
+1,105,Konstanz, Germany
+1,104,Stockholm, Sweden
+1,104,Lugano, Svizzera
+1,104,Paraguay
+1,103,Pune, Maharashtra, India
+1,103,United Kingdom
+1,103,Minnesota
+1,102,Lagos, Nigeria
+1,102,Macedonia
+1,102,Durham, NC, United States
+1,101,London, United Kingdom
+1,101,Gurgaon, Haryana, India
+1,101,Seattle, WA, USA
+1,100,Atlanta, GA, USA
+1,100,New Jersey
+1,100,NJ
+1,100,Netherlands
+1,099,Kolkata, India
+1,099,Pune, Maharashtra, India
+1,099,Davis, CA
+1,098,Spain
+1,098,Hamburg, Germany
+1,098,United Kingdom
+1,098,Phoenix, AZ
+1,097,Montreal, Quebec, Canada
+1,097,Netherlands
+1,097,Liverpool, United Kingdom
+1,096,Petropolis, Brazil
+1,096,Drøbak, Norway
+1,096,Bulgaria
+1,095,Rabat, Rabat-Sale-Zemmour-Zaer, Morocco
+1,095,Gdańsk, Poland
+1,095,Stockholm, Sweden
+1,095,Egersund, Norway
+1,094,Santa Cruz, CA
+1,094,Virginia
+1,094,India
+1,093,New York, NY, United States
+1,093,Warrrenton, VA
+1,093,Coimbatore
+1,092,France
+1,092,New York, USA
+1,092,Rome
+1,091,Swaziland
+1,091,India
+1,091,Berlin, Germany
+1,091,Thailand
+1,090,Seattle, WA, USA
+1,090,Dresden, Germany
+1,090,Ann Arbor, MI
+1,089,Amsterdam, Netherlands
+1,089,Berkeley, CA, United States
+1,089,Wales
+679,Kathmandu, Central Development Region, Nepal
+679,Mumbai, India
+679,United States
+678,Voronezh, Voronezh Oblast, Russia
+678,Bengaluru, Karnataka, India
+678,Montreal, Canada
+678,DC/MD area
+678,Jeddah, Saudi Arabia
+678,California
+677,Bangalore, Karnataka, India
+677,Islamabad, Pakistan
+677,Singapore
+677,Dnipro, Dnipropetrovsk Oblast, Ukraine
+677,Ukraine
+677,St. Petersburg, Russia
+677,Bangalore, India
+677,United Kingdom
+676,Atlanta, GA, USA
+676,Portland, OR
+676,Massachusetts Institute of Technology, MA
+676,Patras, Achaea, Greece
+676,Italy
+676,Lebanon, NJ
+676,Hermosillo, Sonora, Mexico
+675,Vienna, Austria
+675,France
+674,Bucharest, Romania
+674,Waterloo, ON
+674,Murten, Switzerland
+674,Chennai, India
+672,Zagreb, Croatia
+672,Switzerland
+672,Prague, Czech Republic
+672,United Kingdom
+671,Allahabad, Uttar Pradesh, India
+671,Czech Republic
+671,Germany
+671,Bangalore, India
+671,Finland
+671,Bangalore, India
+671,India
+671,Denmark
+670,Indore, Madhya Pradesh, India
+670,Bologna
+670,Lithuania
+670,Paris, France
+670,Seattle, WA
+670,Surrey, Canada
+670,Seville, Spain
+669,Columbus, OH, United States
+669,Albany, Oregon
+669,eu-central-1
+669,Dresden, Deutschland
+669,Belarus
+669,Linz, Austria
+669,Berlin, Germany
+669,Budapest, Hungary
+668,Colorado, United States
+668,Minnesota, USA
+668,Frankfurt, Germany
+668,Ahmadabad, India
+668,Bangalore, India
+668,Istanbul, Turkey
+668,Nashville, TN, United States
+667,Gurgaon, Haryana, India
+667,roma, Italy
+667,INDIA
+667,Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia
+667,Austria
+667,Plano, TX, USA
+667,Medellin, Colombia
+667,Helsinki, Finland
+666,Toronto, ON, Canada
+666,Vancouver, Canada
+666,Gurugram, Haryana, India
+666,Poland
+666,2013
+666,Hong Kong
+666,Les Ulis, France
+666,Cape Town, South Africa
+665,Ahmedabad, Gujarat, India
+665,Noida
+665,Polska
+665,Gurgaon, India
+665,New York, United States
+665,Los Angeles, CA
+665,Tehran, Iran
+664,Srinagar
+664,Chicago
+471,India
+470,Netherlands
+470,Dublin, Ireland
+470,Denver, CO
+469,Vienna, Austria
+469,Auckland, New Zealand
+469,Oldenburg, Deutschland
+469,Sydney, Australia
+469,Brazil
+469,New York, United States
+469,Pakistan
+469,India
+469,Bhubaneswar, Odisha, India
+469,Southampton, United Kingdom
+469,Germany
+469,Dallas, TX
+469,Almaty, Казахстан
+469,United Kingdom
+468,Medellín, Antioquia, Colombia
+468,Moscow, Russia
+468,Netherlands
+468,Recife - PE, Brasil
+468,Italy
+468,Brno, Czech Republic
+468,Armenia, Colombia
+468,Trinidad and Tobago
+468,Maine, USA
+467,Prague, Czech Republic
+467,Poland
+467,Allentown, PA Area
+467,United Kingdom
+467,Honolulu, HI
+466,Rio de Janeiro - RJ, Brasil
+466,Ahmedabad, India
+466,Cairo, Egypt
+466,Ukkel, België
+466,Destin, FL, United States
+466,Tucson, AZ, United States
+466,Canada
+466,Belgium
+466,Los Angeles, CA
+466,China
+466,Barcelona
+466,Falls Church, VA
+466,Sydney, Australia
+466,Hyderabad, India
+466,Brazil
+466,Islamabad, Islamabad Capital Territory, Pakistan
+465,Wrocław, Polska
+465,United Kingdom
+465,United Kingdom
+465,Pune, Maharashtra, India
+465,New York, NY, United States
+465,Surrey, United Kingdom
+465,London, United Kingdom
+465,Warsaw, Poland
+465,Noida
+465,Minsk, Belarus
+465,Pittsburgh, PA
+465,Lugano, Switzerland
+465,San Antonio, TX
+465,Romania
+464,Brasília - DF, Brasil
+464,Bangalore, Karnataka, India
+464,New Delhi
+464,Chennai, Tamil Nadu, India
+464,Leningrad
+464,Tampa, FL, United States
+464,Australia
+464,Indonesia
+464,United States
+464,Portugal
+464,Glasgow, Scotland
+464,New York
+464,Maple Valley, WA
+464,California
+463,Australia
+463,Old Goa, Goa, India
+463,Devon, UK
+463,127.0.0.1
+463,Mannheim, Deutschland
+463,United States
+463,Sao Paulo, Brazil
+463,Tampa, FL
+463,Saint-Héand, France
+463,Montreal, Canada
+353,Germany
+353,Glen Allen, VA, USA
+353,Maple Grove, MN
+353,India
+353,United Kingdom
+353,Denmark
+353,Moscow, Russia
+353,Sunnyvale, CA
+353,Greenville, SC
+353,Boston, MA
+353,St Petersburg, Saint Petersburg, Russia
+353,United States
+352,Melbourne, Victoria, Australia
+352,Islamabad, Pakistan
+352,Gliwice, Poland
+352,Spain
+352,cochin
+352,Emmen, Netherlands
+352,New Zealand
+352,Columbus, OH, USA
+352,Boulder, CO, United States
+351,Bolton, UK
+351,Moscow, Russia
+351,Spain
+351,Singapore
+351,Australia
+351,Munich, Germany
+351,Napa, Ca
+351,United Kingdom
+351,Charlottesville, VA, United States
+351,Madison WI
+351,Bangalore
+351,Pune, India
+351,California
+351,West Lafayette, IN
+351,NY, USA
+351,New York
+351,Israel
+351,Lebanon
+351,Toronto
+351,Belgium
+351,Cape Town, South Africa
+351,Turkey
+351,Prague 1, Czech Republic
+351,Spokane, WA, United States
+350,Tripoli, Lebanon
+350,Eilat, Israel
+350,Belarus
+350,Bangalore, Karnataka, India
+350,chengdu
+350,Dar es Salaam,Tanzania.
+350,Sri Lanka
+350,chennai
+350,Texas
+350,Savarti
+350,Toronto, Canada
+350,Pune, Maharashtra, India
+350,Atlanta, GA
+350,Pune, India
+350,Wear the wild thinks, Rome?
+350,Pune, India
+350,Montreal, Canada
+350,Irvine, CA
+350,San Francisco, CA
+350,Melbourne, Australia
+350,Berne, Switzerland
+350,Bangalore, India
+349,Vietnam
+349,Hartford, CT, United States
+349,Dortmund, Deutschland
+349,Nantwich, United Kingdom
+349,Ahmedabad
+349,INDIA
+349,Hangzhou
+349,Berlin, Germany
+349,Prague, Czech Republic
+349,Bengaluru, Karnataka, India
+244,Tromsø, Norge
+244,France
+244,Oslo, Norway
+244,Belgium
+243,Turin, TO, Italia
+243,Auckland, New Zealand
+243,Japan
+243,Lille, France
+243,Murcia, España
+243,Greenville, SC
+243,Austin, TX
+243,Easton, Pennsylvanie, États-Unis
+243,Lebanon
+243,California
+243,Madrid, Spain
+243,Paris, France
+242,London, United Kingdom
+242,Kathmandu, Central Development Region, Nepal
+242,Nancy, France
+242,Taipei City Taiwan
+242,Istanbul, Turkey
+242,UK
+242,Linz, Austria
+241,Pune, Maharashtra, India
+241,Tehran, Tehran Province, Iran
+241,Hyderabad, India
+241,Belgrade, Serbia
+241,Bangalore,India
+241,Portland, ME
+241,Egypt
+241,California
+241,Amsterdam, Netherlands
+241,Melbourne, Australia
+241,Israel
+241,Arnhem, Netherlands
+241,Austin, TX
+240,Italy
+240,Paris, France
+240,中国北京市Beijing
+240,Dhaka, Dhaka Division, Bangladesh
+240,San Jose, CA, United States
+240,Portland, ME, United States
+240,Leiderdorp, Netherlands
+240,Colorado Springs, CO
+240,Burlington, VT, USA
+240,Atlantic Beach, FL
+240,Ohio
+240,Vancouver, Canada
+239,Nowhere Road, Dewy Rose, GA, United States
+239,Sydney, New South Wales, Australia
+239,Johannesburg
+239,Belgium
+239,Ridgefield, CT, USA
+239,Paris, France
+239,Ukraine
+239,Copenhagen, Denmark
+239,Germany
+239,Dartmoor
+239,Chennai
+239,New York, NY, USA
+239,Ohio
+239,Glens Falls, NY
+238,Budapest, Magyarország
+238,London
+238,London, UK
+238,California, United States
+238,Berlin, Deutschland
+238,Amsterdam, Netherlands
+238,Ukraine
+238,Manchester, United Kingdom
+238,Islamabad, Pakistan
+238,Bangalore
+238,Clifton, NJ, USA
+238,Berlin, Germany
+237,Munich, Germany
+237,NC, United States
+237,TLV
+237,Seixal
+237,India
+237,Melbourne, Australia
+237,Manchester, United Kingdom
+237,New Zealand
+169,São Paulo - SP - BRA
+169,France
+169,India
+169,Chennai, India
+169,Edinburgh, United Kingdom
+169,Bengaluru, India
+169,Noida, India
+169,Netherlands
+169,Belarus, Minsk
+169,Chennai, India
+169,Pakistan
+169,Netherlands
+169,France
+169,India
+169,Russia
+169,Vancouver, Canada
+169,Sydney NSW, Australia
+169,Nottingham, United Kingdom
+169,Austria
+169,San Francisco
+169,Norwich, United Kingdom
+169,Hamburg, Germany
+169,Barcelona, Spain
+169,Israel
+169,United States
+168,Mumbai, Maharashtra, India
+168,Delhi, India
+168,Eusébio - CE, Brasil
+168,Kyiv City, Kyiv city, Ukraine
+168,Nashville Tn
+168,France
+168,India
+168,India
+168,San Francisco Bay Area
+168,Jönköping, Sverige
+168,Paris, France
+168,Oslo
+168,Italy
+168,Kolkata, India
+168,United Kingdom
+168,Berlin, Germany
+168,Cape Town, South Africa
+168,Spain
+168,London
+168,Ashburn VA
+168,Redmond, WA, USA
+168,Belgrade, Serbia
+168,San Francisco, CA, United States
+168,Beavercreek, Ohio
+168,Russia
+168,Pune
+168,Moscow, Russia
+168,Fortaleza, CE, Brazil
+168,Bloomington, IN
+168,Bogota, Colombia
+168,London, United Kingdom
+168,United States
+168,Calgary, AB, Canada
+168,Reykjavik, Iceland
+168,Melbourne, Victoria, Australia
+168,Singapore, Singapore
+168,Istanbul, Turkey
+168,San Francisco, CA
+167,USA
+167,Москва, Россия
+167,Cameroon
+167,Ciudad de México, México
+167,Seoul, 대한민국
+167,Perth, Western Australia, Australia
+167,Helsinki, Finland
+167,København, Danmark
+167,St. Louis, MO
+167,Minnesota, USA
+167,中国Shanghai Shi
+167,Belgium
+167,Switzerland
+167,Conway, AR, United States
+167,Noida
+167,Iran
+167,Gandhinagar
+167,new york
+167,Brazil
+136,Chennai, India
+136,Paris, France
+136,Minneapolis, MN, USA
+136,Indonesia
+136,Norman, OK, United States
+136,Berlin & London
+136,Switzerland
+136,Delhi, India
+136,BeiJing China
+136,Pune
+136,Columbia, SC
+136,Durban, South Africa
+136,Sao Paulo, Brazil
+136,Czech Republic
+136,Belgium
+136,Los Angeles, CA 90066, United States
+136,Mumbai, India
+136,Jaipur
+136,Kathmandu, Nepal
+136,Goshen, IN
+136,London
+136,Bangalore, India
+136,Berlin, Germany
+136,Iran
+136,San Francisco Bay Area
+136,Kansas
+136,Lisbon, Portugal
+136,Brasil
+136,Indianapolis, IN
+135,Istanbul, Turkey
+135,Hyderabad, Telangana, India
+135,Egypt
+135,Abu Dhabi - United Arab Emirates
+135,Ireland
+135,Ireland
+135,San Jose, CA, United States
+135,Quezon City, Metro Manila, Philippines
+135,Pune, Maharashtra, India
+135,Amsterdam, Netherlands
+135,Dehradun, Uttarakhand, India
+135,UK
+135,Polska
+135,Singapore
+135,Dubai - United Arab Emirates
+135,Spain
+135,Amsterdam, Netherlands
+135,NYC, NY, United States
+135,Belgrade, Serbia
+135,Kyiv city, Ukraine
+135,Prague, Czech Republic
+135,Tallahassee, FL
+135,India
+135,Kolkata, India
+135,USA
+135,Connecticut
+135,Angers, France
+135,Barcelona, Spain
+135,Gurugram, Haryana, India
+135,Ukraine
+135,Yokohama-shi, Japan
+135,Vadodara, Gujarat, India
+135,Madrid, Spain
+135,Bogota, Colombia
+135,Honduras
+135,India
+135,Reading, United Kingdom
+135,Northern, Illinois, United States
+135,London, UK
+135,Netherlands
+135,United States
+135,Thailand
+135,Krasnodar, Russia
+135,Cairo, Egypt
+135,California
+135,Israel
+135,Lambersart, France
+135,Shanghai, China
+135,London
+135,Florida
+135,Calgary
+135,Sioux Falls, SD, USA
+135,Gaziantep, Turkey
+135,Kamloops, Canada
+135,Columbus, OH
+135,Budapest, Hungary
+135,Prague, Repubblica Ceca
+135,New Haven Twp, MI
+112,Vinnytsia, Вінницька область, Україна
+112,Hyderabad, Telangana, India
+112,MN
+112,South Korea
+112,Third World
+112,Russia
+112,Bangkok Thailand
+112,Orlando, FL
+112,Central Florida
+112,Germany
+112,Abu Dhabi - United Arab Emirates
+112,India
+112,Germany
+112,Jacksonville, FL
+112,Boston Metropolitan Area, USA
+112,India
+112,Brazil
+112,Cleveland, OH
+112,Lowestoft, United Kingdom
+112,Cary, NC, USA
+112,Santa Clara, CA
+112,United States
+112,Serbia
+111,Texas
+111,Ethiopia
+111,London, UK
+111,United States
+111,Barcelona, España
+111,IIT Area, Mumbai, Maharashtra, India
+111,Hong Kong
+111,Colombo, Sri Lanka
+111,CT
+111,Kyiv, Ukraine
+111,Тамбов, Тамбовская область, Россия
+111,Lausanne, Suisse
+111,Auroville, Tamil Nadu, India
+111,Budapest, Magyarország
+111,Chennai, Tamil Nadu, India
+111,USA
+111,France
+111,Chía, Cundinamarca, Colombia
+111,Beograd Centar, Beograd
+111,Davis, CA, USA
+111,Hyderabad, Telangana, India
+111,Lagos, Nigeria
+111,Wsw
+111,Denmark
+111,Cayman Islands
+111,Mumbai, Maharashtra, India
+111,Santa Clara, CA, USA
+111,Минск, Беларусь
+111,Moscow
+111,Ho Chi Minh City, Ho Chi Minh, Vietnam
+111,Lima, Perú
+111,Saint Petersburg, Russia
+111,Sri Jayawardenepura Kotte, Western Province, Sri Lanka
+111,Asunción, Paraguay
+111,Cascavel - PR, Brasil
+111,Montreal, QC, Canada
+111,Canada
+111,Brazil
+111,Italy
+111,Gurgaon, Haryana, India
+111,Dallas, TX, United States
+111,Helsinki, Finland
+111,Gent
+111,Italy
+111,Yerevan, Armenia
+111,Amherst, MA, United States
+111,Chennai, Tamil Nadu, India
+111,Encino,CA
+111,New York, United States
+111,1 Neiwand St
+111,Texas, USA
+111,Brazil
+111,Russia
+111,Rio Branco, AC, Brasil
+111,New York, NY
+111,Serbia, Novi Sad
+111,Pune, Maharashtra, India
+111,Amsterdam, Netherlands
+111,Lyon, France
+111,Pakistan
+111,Milwaukee, WI, United States
+111,Paris, France
+111,Gurgaon, Haryana, India
+111,Tours, France
+99,Italy
+99,Oldham, UK
+99,Karachi, Pakistan
+99,Algiers, Algeria
+99,West Midlands, United Kingdom
+99,San Juan, Puerto Rico
+99,Prishtina
+99,Chandigarh, India
+99,Gurugram, Haryana, India
+99,London, United Kingdom
+99,Thrissur, കേരളം, ഇന്ത്യ
+99,Singapore
+99,Oslo, Norway
+99,San Francisco, CA, United States
+99,Namur, Belgium
+99,Zagreb, Croatia
+99,Canada
+99,New Zealand
+99,Belo Horizonte, Brasil
+99,Bangalore, India
+99,London, United Kingdom
+99,Costa Rica
+99,Škofja Loka, Slovenija
+99,Russian Federation
+99,Mauritius
+99,Bangalore
+99,Ahmedabad, India
+99,Boston, MA
+99,Oslo, Norway
+99,Buenos Aires, Argentina
+99,London, United Kingdom
+99,Copenhagen, Denmark
+99,Chicago, IL, United States
+99,Belgium
+99,Italy
+99,Hamburg, Germany
+99,Belgium
+99,Montreal, Canada
+99,Salt Lake City, UT
+99,Athens, Greece
+99,Hyderabad, India
+99,Prague, Czech Republic
+99,Sweden
+99,New York, NY, United States
+99,Giza, Egypt
+99,London, United Kingdom
+99,Mexico
+99,Denver, CO, United States
+99,Perth, Australia
+99,India
+99,India
+98,India
+98,Banja Luka, Bosnia and Herzegovina
+98,Colorado, USA
+98,Colorado
+98,Leuven, Belgium
+98,China
+98,Rio de Janeiro, State of Rio de Janeiro, Brazil
+98,Aix-en-Provence, France
+98,Redmond, WA, United States
+98,Poland
+98,Pasig, NCR, Philippines
+98,Santo Domingo, República Dominicana
+98,Noida, Uttar Pradesh, India
+98,Polska
+98,Oklahoma City, OK, United States
+98,Oslo, Norway
+98,Amsterdam, Niederlande
+98,Bangalore, Karnataka, India
+98,Austria
+98,Davos, Schweiz
+98,México
+98,Saint Petersburg, Russia
+98,Nahavand, Hamadan Province, Iran
+98,Tunisia
+98,Ankara, Türkiye
+98,North Carolina, United States
+98,Seattle, WA, United States
+98,Malaysia
+98,Pasig City, NCR, Philippines
+98,Pondicherry, Puducherry, India
+98,Switzerland
+98,Ireland
+98,Medellin, Colombia
+98,Montreal, QC, Canada
+98,Aalborg, Danmark
+98,Portugal
+81,Mountain View, CA, USA
+81,Sweden
+81,Denver, CO, USA
+81,Malmö, Sverige
+81,Montréal, QC, Canada
+81,Lucknow, Uttar Pradesh, India
+81,Europe
+81,Chennai, Tamil Nadu, India
+81,Pune, Maharashtra, India
+81,Kolkata, West Bengal, India
+81,Karachi, Sindh, Pakistan
+81,Germany
+81,Costa Rica
+81,Jerusalem, Israel
+81,York, PA
+81,New Cairo City, Cairo Governorate, Egypt
+81,Kyiv city, Ukraine
+81,Colorado Springs, CO, USA
+81,Pune, Maharashtra, India
+81,Barcelona, Spain
+81,Charlotte, NC, United States
+81,United Kingdom
+81,Hubli
+81,Woodland Hills, Los Angeles, CA, United States
+81,Bangalore, Karnataka, India
+81,Abuja, Federal Capital Territory, Nigeria
+81,Angoulême, France
+81,Varna, Bulgaria
+81,Bangalore, Karnataka, India
+81,London, United Kingdom
+81,Hyderabad, Telangana, India
+81,Vadodara, Gujarat, India
+81,Hyderabad, Telangana, India
+81,India
+81,Kontich, België
+81,France
+81,Kathmandu, Central Region, Nepal
+81,Cork City, Ireland
+81,Gandhinagar, Gujarat, India
+81,Bangalore, Karnataka, India
+81,Everett, WA, United States
+81,Glasgow, United Kingdom
+81,Toronto, ON, Canada
+81,Florence, FI, Italia
+81,Harare, Zimbabwe
+81,Blumenau, State of Santa Catarina, Brazil
+81,Hyderabad, Telangana, India
+81,Russia
+81,Kolkata, West Bengal, India
+81,Venezuela
+81,Austin, TX, United States
+81,Japan, Tokyo
+81,London, UK
+81,Toronto, ON, Canada
+81,Seattle, WA, United States
+81,Wien, Österreich
+81,Kerala, India
+81,Stockholm, Sweden
+81,Minsk, Belarus
+81,Vladimir, Russia
+81,New Delhi
+81,Chicago, IL, United States
+81,San Francisco
+81,Bangalore, Karnataka, India
+81,Chennai, India
+81,München, Deutschland
+81,Turkey
+81,Linz, Österreich
+81,Warsaw, Poland
+81,Bologna, BO, Italia
+81,Lviv, Lviv Oblast, Ukraine
+81,Richmond, VA, United States
+81,Chandigarh
+81,Canada
+81,New Delhi, Delhi, India
+81,Egypt
+81,Cambridge, UK
+81,Spain
+81,Bialystok, Poland
+81,Boston, MA, United States
+81,Wuhan, Hubei, China
+69,Hyderabad, Telangana, India
+69,Alicante, Spain
+69,Chicago, IL, United States
+69,Beijing, China
+69,Pune, Maharashtra, India
+69,Montijo, Setúbal, Portugal
+69,Paris, France
+69,Hyderabad, India
+69,Buenos Aires - Houston - Madrid
+69,New York, NY, United States
+69,Germany
+69,Seoul, South Korea
+69,İstanbul, Türkiye
+69,Tehran, Iran
+69,Stoke-on-Trent, United Kingdom
+69,London
+69,Sweden
+69,India
+69,Dublin, Ireland
+69,Hyderabad, Telangana, India
+69,Berlin, Deutschland
+69,Mumbai, India
+69,Paris, France
+69,India
+69,Montreal, QC, Canada
+69,Charlotte, NC
+69,Croatia
+69,Bern, Switzerland
+69,Ljubljana, Slovenia
+69,Vilnius, Lithuania
+69,Vietnam
+59,New York, NY, United States
+15,Iran
+15,Surat, India
+15,日本 Tōkyō
+15,Orlando, FL, United States
+15,Brighton, United Kingdom
+15,Chicago, IL, United States
+15,Montevideo, Uruguay
+15,Mayo Ireland
+15,Mumbai, India
+15,India
+15,Copenhagen, Denmark
+15,N.E. Arkansas, USA
+15,Tagbilaran City, Bohol, Philippines
+15,London, United Kingdom
+15,osl
+15,Netherlands
+15,Istanbul, Turkey
+15,New York, United States
+15,Phuket, Thailand
+15,London
+15,Adelaide, Australia
+15,Brazil
+15,Brampton, ON, Canada
+15,Philippines
+15,Stirling, Egyesült Királyság
+15,Kansas, United States
+15,bhilai,india
+15,Helsinki, Finland
+15,UK
+15,European Union
+15,Manchester UK
+15,Germany
+15,Bongaigaon, Assam, India
+15,Mumbai, India
+15,Berlin, Tyskland
+15,Pune, Maharashtra, India
+15,Fishers, IN, United States
+15,Dublin, Ireland
+15,Dhaka, Bangladesh
+15,Izmir,Turkey
+15,South Korea
+15,CHENNAI
+15,Hyderabad, Telangana, India
+15,Viet Nam
+15,Reading, UK
+15,South Korea
+15,England
+15,Karachi, Sindh, Pakistan
+15,Vadodara, Gujarat, India
+15,San Antonio, TX
+15,San Jose
+15,Dubai - United Arab Emirates
+15,Bangalore, Karnataka, India
+15,Ontario, Canada
+15,Atlanta, GA
+13,Belgrade, Србија
+13,Pretoria, Gauteng, South Africa
+13,Mumbai, Maharashtra, India
+13,Italy
+13,Earth
+13,United Kingdom
+13,Chicago, IL
+13,Malaysia
+13,中国北京市
+13,Minnesota
+13,Athens, Greece
+13,Toronto
+13,Germany
+13,Wiltshire, UK
+13,Manchester, United Kingdom
+13,Chennai, Tamil Nadu, India
+13,Tokyo, Japan
+13,USA
+13,India
+13,Danmark
+13,KSA
+13,Texas
+13,London, United Kingdom
+13,Treviso, Province of Treviso, Italy
+13,Haryana, India
+13,New Delhi
+13,New Delhi
+13,Christchurch, New Zealand
+13,India
+13,Nairobi
+13,Rīga, Rīgas pilsēta, Latvija
+13,Bogota, Colombia
+13,Mumbai, Maharashtra, India
+13,Portland, OR
+13,Le Havre, France
+13,Krakow, Poland
+13,Berlin
+13,India
+13,Antalya, Türkiye
+13,Germany
+13,Kansas City, MO
+13,Israel
+13,Frankfurt, Germany
+13,Vietnam
+13,Doha, Qatar
+13,Hyderabad, India
+13,Chicago, IL
+13,Karachi, Pakistan
+13,Romania
+13,Hyderabad, Telangana, India
+13,Bangalore, Karnataka, India
+13,Luxembourg District, Luxembourg
+13,Germany
+13,Beijing, China
+13,Leipzig, Deutschland
+13,Tunisia
+13,Iran
+13,Rome, Italy
+11,Seattle, WA, USA
+11,Kharkiv, Харьковская область, Ukraine
+11,VA
+11,NYC
+11,Vietnam
+11,Israel
+11,Lahore, Pakistan
+11,China Grove, 北卡罗来纳州美国
+11,Raleigh, NC, USA
+11,Hangzhou, 浙江省中国
+11,Noida, Uttar Pradesh, India
+11,Bologna, BO, Italia
+11,India
+11,Rome, Italy
+11,India
+11,Jaipur, Rajasthan, India
+11,Jammu
+11,Knutsford, UK
+11,Itajaí - SC, Brasil
+11,Taiwan, 台灣
+11,Montreal, QC, Canada
+11,Sri Lanka
+11,Melbourne VIC, Australia
+11,Chennai, Tamil Nadu, India
+11,Bamberg, Deutschland
+11,Nigeria
+11,Israel
+11,Italy
+11,TN, USA
+11,Argentina
+11,2318 16th Place, Kenosha, WI, USA
+11,Czechia
+11,Israel
+11,Raleigh, NC, USA
+11,France
+11,Incheon, 대한민국
+11,Olsztyn, Polska
+11,Nha Trang, Khanh Hoa Province, Vietnam
+11,Cianorte - PR, Brasil
+11,Bordeaux, France
+11,İstanbul, Türkiye
+11,MA, USA
+11,London
+11,Beijing, 北京市中国
+11,China
+11,Washington D.C., DC, USA
+11,Singapore
+11,Yerevan, Armenia
+11,Ahmedabad, Gujarat, India
+11,Santiago, Chile
+11,Tamil Nadu, India
+11,São Paulo, State of São Paulo, Brazil
+11,Maranhão, Brasil
+11,Івано-Франківська область, Ukraine
+11,London, United Kingdom
+11,Bangalore, Karnataka, India
+11,Dehradun, Uttarakhand, India
+11,Kharkiv, Ukraine
+11,Poland
+11,Bristo
+11,India
+11,Ahmedabad, Gujarat, India
+11,Cincinnati, OH, USA
+11,Bangalore, Karnataka, India
+11,Indonesia
+11,India
+11,Germany
+11,Islamabad, Pakistan
+11,India
+11,Athens, Kentrikos Tomeas Athinon, Greece
+11,中国山东省Jinan Shi
+11,Villach, Austria
+11,Ireland
+11,Sherbrooke, QC, Canada
+11,Long Island, New York, USA
+11,Daegu, 대한민국
+11,Stuttgart, Deutschland
+11,London, ON, Canada
+11,Ho Chi Minh, Vietnam
+11,India
+11,Ann Arbor, MI, United States
+11,Ćuprija
+11,Chennai, Tamil Nadu, India
+11,México
+11,Edinburgh, UK
+11,India
+11,Houston, TX, USA
+11,Pune, Maharashtra, India
+11,Muscat, Oman
+11,São Bernardo do Campo - SP, Brasil
+11,Raigarh, Chhattisgarh, India
+11,Sacumento
+11,Arizona, United States
+11,Campinas - SP, Brasil
+11,Toulouse, France
+11,Kathmandu, Nepal
+11,Visnagar, Gujarat, India
+11,UK
+11,Los Angeles, CA
+11,İstanbul, Türkiye
+11,Sidi M’Hamed Ben Ali, Relizane Province, Algeria
+11,Leipzig, Deutschland
+11,Spain
+11,Bengaluru, Karnataka, India
+11,Noida, Uttar Pradesh, India
+11,Shaanxi, China
+11,Amsterdam, Netherlands
+11,UK
+11,Mashhad, Razavi Khorasan Province, Iran
+11,Germany
+11,Argentina
+11,Munich, Bavaria
+11,Indore, Madhya Pradesh, India
+11,France
+11,Atlanta, GA
+11,everywhere
+11,Louisville, KY
+11,Gurugram, Haryana, India
+11,Kochi, Kerala, India
+11,Colorado
+11,Randolph, MA
+11,Austria
+11,Rhode Island, USA
+11,Marseille, France
+11,Colorado
+11,Paris, France
+11,In front of my laptop!!
+11,Chicago, IL, United States
+11,Mexico
+11,Dallas, TX
+11,Indonesia
+11,Hyderabad, India
+11,Toronto, Canada
+11,Texas
+11,Hyderabad, Telangana, India
+11,Mexico City, CDMX, Mexico
+11,Argentina
+11,Colombo, Sri Lanka
+11,San Ramon, CA, USA
+11,Santander, España
+11,Bengaluru, Karnataka, India
+11,Russia
+11,Germany
+11,Gagra, Abkhazia
+11,Paris, France
+11,Colombia
+11,Lima, Peru
+11,Bengaluru, India
+11,Burnsville, MN
+11,Mashhad, Khorasan Razavi, Iran
+11,Bangalore
+11,Seattle
+11,Russia
+11,Yangon
+11,Guadalajara, Jalisco, Mexico
+11,Paris, France
+11,Sanandaj, Iran
+11,iran-tehran
+11,Paris
+11,Spain
+11,Ahmedabad, Gujarat, India
+11,Pszczyna, Polska
+11,Indonesia
+11,Germany
+11,Noida, Uttar Pradesh, India
+11,Baltimore, MD, USA
+11,Tokyo, 日本
+11,Grand Forks, ND
+11,Melbourne, Australia
+11,Utrecht, Netherlands
+11,Bangalore, India
+11,Fribourg, Switzerland
+11,Seattle, WA
+11,Bangalore
+11,Vadodara, India
+11,NorthEastern Pennsylvania
+11,India
+11,Manchester, United Kingdom
+11,Bergen, Norway
+11,Florida
+11,United States
+11,Colorado
+11,Minsk, Belarus
+11,NYC Metro Area
+11,New York, United States
+11,United States
+11,Vienna, Áustria
+11,США
+11,Hamburg, Germany
+11,India
+11,Belgium
+11,Lima, Peru
+11,France
+11,Seattle, WA
+11,Berlin, Germany
+11,Wales, UK
+11,Dresden, Germany
+11,Somalia
+11,Sydney, Australia
+11,Zurich, Switzerland
+11,USA
+11,New York, NY
+11,Russia
+11,Brisbane, Australia
+11,Labene, France
+11,Mexico
+11,Pune, Maharashtra
+11,Guildford, United Kingdom
+11,Athens, Greece
+11,Switzerland
+11,India
+11,France
+11,Monterrey, Mexico
+11,Charlottesville, Virginia USA
+11,Shanghai, China
+11,Bangalore, India
+11,Bielefeld, Germany
+11,New York, United States
+11,India
+11,East Lansing, MI
+11,Mayence, Germany
+11,Brazil
+9,Ahmadabad, India
+9,United Kingdom
+9,bangalore
+9,Liverpool, United Kingdom
+9,New York, NY, United States
+9,Leicestershire, UK
+9,München, Deutschland
+9,Khanty-Mansiysk
+9,China
+9,Miami, FL
+9,Louisville, KY
+9,United Kingdom
+9,Netherlands
+9,Bangalore, Karnataka, India
+9,Poland
+9,Kolkata, India
+9,India
+9,London, United Kingdom
+9,Mumbai, India
+9,Delhi, India
+9,United States
+9,Paris, France
+9,Pittsburgh, PA, United States
+9,Dublin, Ireland
+9,UK
+9,Sydney NSW, Australia
+9,Macedonia (FYROM)
+9,Amman-jordan
+9,Guatemala
+9,India
+9,Hong Kong
+9,Taiwan
+9,Hyderabad, Sindh, Pakistan
+9,Brazil
+9,Bangalore, India
+9,India
+9,Passau, Deutschland
+9,China
+9,Dasmarinas, Philippines
+9,Pune, India
+9,Novi Sad, Војводина
+9,中国广东省Shenzhen Shi
+9,Roskilde, Denmark
+9,Kiev
+9,Hyderabad, India
+9,Florida
+9,India
+9,Mumbai, India
+9,Lima, Perú
+9,Vijayawada, India
+9,Kanpur
+9,Finland
+9,St. Louis Metro East
+9,Germany
+9,India
+8,Baltimore, MD, United States
+8,Philippines
+8,Detroit, MI, United States
+8,Kiev, Kyiv city, Ukraine
+8,Turkey
+8,Vancouver, BC, Canada
+8,Italien
+8,Philippines
+8,Khulna, Bangladesh
+8,Москва, Россия
+8,Chennai, Tamil Nadu, India
+8,New Delhi, Delhi, India
+8,United Kingdom
+8,v4:127.0.0.1 // v6::1
+8,België
+8,Piran, Slovenia
+8,Houston, TX, United States
+8,Bengaluru, Karnataka, India
+8,Wien, Österreich
+8,Minnesota, United States
+8,Los Angeles, CA, United States
+8,Berlin, Deutschland
+8,Mexico City, Mexico
+8,IBM India pvt ltd, kolkata
+8,Astana, Kazakhstan
+8,New York, United States
+8,New Delhi, Delhi, India
+8,Upstate New York
+8,İstanbul, Türkiye
+8,China, Guangdong Sheng, Guangzhou Shi
+8,London, United Kingdom
+8,Tehran, Tehran Province, Iran
+8,Bengaluru, Karnataka, India
+8,Germany
+8,Sydney, New South Wales, Australia
+8,Singapore
+8,London, UK
+8,Thimphu, Bhutan
+8,Gloucestershire, United Kingdom
+8,Italy
+8,Bristol, United Kingdom
+8,Guadalajara, Jal., México
+8,Middle Earth
+8,Norman, OK, USA
+8,Burnley, UK
+8,Bangalore, Karnataka, India
+8,Goiânia - GO, Brazil
+8,Amsterdam, Netherlands
+8,Bucharest, Romania
+8,Semarang
+8,Hungary
+8,Nashik, Maharashtra, India
+8,Edinburgh, United Kingdom
+8,United Kingdom
+8,Tampa, FL, United States
+8,Rochester, NY
+8,Montevideo, Uruguay
+8,Italy
+8,Spain
+8,Kansas City, MO
+8,Rio de Janeiro, Brazil
+8,Toronto, Canada
+8,Yorktown, VA
+8,Hong Kong
+8,India
+8,St. Louis
+8,India
+8,Dhaka, Bangladesh
+8,Charlottesville, VA
+8,Chicago, IL
+8,Cologne, Germany
+8,Egypt
+8,Gaithersburg, MD
+8,Russia
+8,Istanbul, Turkey
+8,United States
+8,Cuiaba, Brazil
+8,Londonderry, NH
+8,New York, NY
+8,Singapore
+8,Vancouver, BC
+8,Zurich, Switzerland
+8,Santa Monica
+8,Richardson, Texas
+8,UK
+8,Middlesbrough
+8,Penang, Malaysia
+8,Dublin, Ireland
+8,United States
+8,China
+8,Coimbra, Portugal
+8,San Francisco, CA
+8,Berlin, Germany
+8,Chennai, India
+8,Denton, TX
+8,Hitchin, UK
+8,India
+8,San Diego, CA, United States
+8,Buffalo, NY
+8,Sweden
+8,Hanoi, Vietnam
+8,Bournemouth, United Kingdom
+8,Klamath Falls, OR
+8,china
+8,Sweden
+8,Austin, TX
+8,Hyderabad
+8,Emerald Hills
+8,Sweden
+8,Bangalore, India
+8,Pakistan
+8,Scotland
+8,Royal Oak, MI
+8,Dallas, TX
+8,Brisbane, Australia
+6,Barcelona
+6,Johannesburg, South Africa
+6,Taipei City, 台灣
+6,Miami Springs, Florida, EE. UU.
+6,Brasil
+6,Israel
+6,Pakistan
+6,Namur, Belgique
+6,Ernakulam, Kerala, India
+6,Santa Clara, Villa Clara , Cuba
+6,Fairmont, WV, USA
+6,Cape Town
+6,Pune, Maharashtra, India
+6,London, UK
+6,Grenoble, France
+6,India
+6,Hawaii, USA
+6,Singapore, 新加坡
+6,Hyderabad, Telangana, India
+6,Vijayapura, Karnataka, India
+6,Noida, Uttar Pradesh, India
+6,Bhubaneswar, Odisha, India
+6,Raleigh, NC, USA
+6,Coimbatore, Tamil Nadu, India
+6,Kolkata, West Bengal, India
+6,São Paulo, SP, Brasil
+6,Pune, Maharashtra, India
+6,korean
+6,Malaysia
+6,Gig Harbor, WA, USA
+6,Loveland, CO, USA
+6,Paris, France
+6,WI, 美国
+6,Planet Earth
+6,Lebanon
+6,Dallas, TX, USA
+6,Barcelona, España
+6,china
+6,Seoul, 대한민국
+6,3/12, Kamarajar Salai, Ramapuram, Tamil Nadu, India
+6,China
+6,Roma, RM, Italia
+6,Canada
+6,Praha 5, Česko
+6,New York, NY, USA
+6,Singapore
+6,Yerevan, Armenia
+6,Tanzania
+6,Korea
+6,USA
+6,France
+6,Statesboro, GA, USA
+6,Protea Hoogte, Cape Town, South Africa
+6,Philippines
+6,London, UK
+6,Iowa City, IA, United States
+6,Indonesia
+6,Karachi, Sindh, Pakistan
+6,Chennai, Tamil Nadu, India
+6,Iran
+6,Egypt
+6,Gurgaon, Haryana, India
+6,Hyderabad, Telangana, India
+6,Brazil
+6,Canada
+6,Manchester, United Kingdom
+6,Staines-upon-Thames, United Kingdom
+6,Chennai, Tamil Nadu, India
+6,United States
+6,California, United States
+6,Kathmandu, Central Development Region, Nepal
+6,Lima, Departamento de Lima, Perú
+6,Sydney, Australia
+6,Surat, Gujarat, India
+6,Germany
+6,India
+6,Hong Kong
+6,ahmedabad
+6,Indonesia
+6,Menlo Park, CA, USA
+6,Bangalore, Karnataka, India
+6,Mumbai, Maharashtra, India
+6,Moscow, Russia
+6,Chennai, Tamil Nadu, India
+6,Miami, FL, United States
+6,Belo Horizonte - MG, Brasil
+6,Madrid
+6,egypt
+6,Zürich, Switzerland
+6,Gurgaon, Haryana, India
+6,Portsmouth, NH, United States
+6,Israel
+6,România
+6,Tarragona, Spain
+6,Rennes, France
+6,San Francisco
+6,London
+6,Bucharest, Municipiul București, România
+6,Chennai, Tamil Nadu, India
+6,Bangalore
+6,Kolkata, West Bengal, India
+6,Brazil
+6,Bangalore, Karnataka, India
+6,中国湖北省Wuhan Shi
+6,São Paulo - SP, Brasil
+6,New York, NY, United States
+6,中国Shanghai
+6,Trinidad and Tobago
+6,Lebanon
+6,Winnipeg, MB, Canada
+6,Hungary
+6,Bangalore, India
+6,India
+6,Udaipur, India
+6,Indianapolis, IN, United States
+6,Chile
+6,Hyderabad, Telangana, India
+6,Stuttgart, Germany
+6,Netherlands
+6,Gainesville, FL, USA
+6,Kanchipuram, Tamil Nadu, India
+6,Kiyev, город Киев, Украина
+6,Kuala Lumpur, Malaysia
+6,Mexico City, Mexico
+6,Coimbatore, Tamil Nadu, India
+6,Pune, India
+6,Overland Park, KS
+6,Boston, MA
+6,Finland
+6,Germany
+6,Austin, TX, USA
+6,Noida, Uttar Pradesh, India
+6,Mississauga, Canada
+6,Binghamton, NY, USA
+6,Philippines
+6,USA
+6,Pilsen, Česko
+6,Pakistan
+6,New Jersey
+6,France
+6,Chennai, Tamil Nadu, India
+6,Sydney NSW, Australia
+6,Colombo, Sri Lanka
+6,Korangi Crossing Road, Karachi, Sindh, Pakistan
+6,Duluth, MN, USA
+6,Egypt
+6,Hong Kong
+6,Spain
+6,Franklin, TN, USA
+6,Copenhagen, Denmark
+6,Russian
+6,Germany
+6,on the sky
+6,Kathmandu, Central Region, Nepal
+6,Turkey
+6,Washington, DC, USA
+6,Hungary
+6,België
+6,Colorado
+6,Bangalore, Karnataka, India
+6,Port Harcourt, Rivers, Nigeria
+6,Ho Chi Minh City, Vietnam
+6,punjab
+6,Paris, France
